@@ -1,0 +1,10 @@
+langchain
+llama-index
+sentence-transformers
+transformers
+faiss-cpu
+PyPDF2
+torch
+streamlit
+llama-index
+llama-index-embeddings-huggingface
